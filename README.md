@@ -9,6 +9,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ham0mer&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ham0mer&show_icons=true&theme=dark&count_private=true)
-![](https://stats.justsong.cn/api/csdn?id=Ham0mer&theme=dark)
-![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
 ![](https://activity-graph.herokuapp.com/graph?username=Ham0mer&theme=github)
