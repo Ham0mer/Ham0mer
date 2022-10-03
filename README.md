@@ -1,10 +1,11 @@
 # 在 Github 摸🐟是乐趣，希望未来有一天能发展成事业
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
+### _Hi there 👋, I'm Li._
 
+[![gmail 邮箱](https://img.shields.io/badge/ProtonMail-D14836?logo=gmail&logoColor=white)](mailto:oio_qwq@proton.me)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ham0mer&layout=compact)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ham0mer&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ham0mer&theme=dracula&utcOffset=8)
+![](https://github-readme-stats.vercel.app/api?username=Ham0mer&count_private=true&show_icons=true)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ham0mer&theme=dracula)
