@@ -1,4 +1,4 @@
-#在 Github 摸🐟是乐趣，希望未来有一天能发展成事业
+# 在 Github 摸🐟是乐趣，希望未来有一天能发展成事业
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
