@@ -9,3 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ham0mer&count_private=true&show_icons=true)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ham0mer&theme=dracula)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Ham0mer&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
+</div>
